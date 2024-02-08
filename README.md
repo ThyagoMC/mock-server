@@ -109,3 +109,5 @@ There are some options for query filters they are:
 - queryPriority: set the priority of an query, if the priority is greater than 9 that query will be executed after extract the list length, default value is 5.
 
 - `list-total/utils.ts` there are 2 functions that could be used to add query function: `sort` = used to sort the result list,  `offset` = used for pagination, a sample of use is on `/mocks/stubs/projects`
+
+#TODO
